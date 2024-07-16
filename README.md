@@ -23,7 +23,7 @@ This challenge is to build out this profile card component and get it looking as
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://vyshin77.github.io/profile-card-challenge/]
 
 ## My process
 
